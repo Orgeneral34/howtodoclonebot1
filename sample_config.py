@@ -14,7 +14,7 @@ class Config(object):
     TG_BOT_TOKEN = "7462993574:AAGupJ-VV6YPDNO7kguJoFTb433cIZ__rXA"
 
     # Get from my.telegram.org
-    APP_ID = int(27391583
+    APP_ID = int(27391583)
 
     # Get from my.telegram.org
     API_HASH = "ceb379be5a6706f6c3e3378fa231ee1b"
